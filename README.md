@@ -71,7 +71,16 @@ Load test
 Tabulation for Load Test:
 
 Model graph:
+
 Calculation: 
+
+![WhatsApp Image 2025-09-14 at 2 01 56 PM](https://github.com/user-attachments/assets/f369214b-ae58-4848-b599-1c03b758a1eb)
+
+![WhatsApp Image 2025-09-14 at 2 02 31 PM](https://github.com/user-attachments/assets/4d8d47af-5c46-47f5-b602-53ecdc1cc04c)
+
+![WhatsApp Image 2025-09-14 at 2 02 32 PM](https://github.com/user-attachments/assets/99ef59f4-e9e0-4b88-b2e7-1b7870110be7)
+
+![WhatsApp Image 2025-09-14 at 2 02 32 PM (1)](https://github.com/user-attachments/assets/8202e230-3c2d-425b-afde-08a4a187180b)
 
 <img width="1075" height="624" alt="image" src="https://github.com/user-attachments/assets/3251b958-1f81-4855-860a-fa3d70116417" />
 
