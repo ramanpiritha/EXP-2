@@ -39,7 +39,7 @@ Load test
 
 4.   The DPST switch must be kept open.Procedure for open circuit test
 
-Procedure
+# Procedure
 
 1.   Connections are given as per the circuit diagram.
 
